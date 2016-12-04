@@ -143,8 +143,8 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \par\vspace{\parskip}
   {%
     \LARGE\headingfont\color{headercolor}%
-    \@sectioncolor #1%
-  }
+    % \@sectioncolor
+    #1}
   \par\vspace{\parskip}
 }
 

@@ -23,27 +23,28 @@
 % Options
 % 'print': remove colors from this template for printing
 % 'nocolor' to disable colors in section headers
-\documentclass[print]{friggeri-cv-a4}
+\documentclass[]{friggeri-cv-a4}
+\hypersetup{
+     colorlinks   = true,
+     citecolor    = gray,
+     linkcolor    = green,
+     urlcolor     = blue
+}  
 \addbibresource{bibliography.bib} % Specify the bibliography file to include publications
 
 \begin{document}
-\header{Mario Román}{}{Mathematics and Computer Science student} % Your name and current job title/field
+\header{Mario Román}{}{Mathematics + Functional Programming} % Your name and current job title/field
 
 \begin{aside} % In the aside, each new line forces a line break
 \section{contact}
-Granada,
-Spain
-~
-+0034 693 833838
-+0034 958 137645
-~
-%\href{mailto:mromang08@gmail.com}{mromang08@gmail.com}
-%\href{https://m42.github.io}{m42.github.io}
-%\href{https://www.linkedin.com/in/mario-roman}{linkedin:mario-roman}
++34 693 833838
+\href{mailto:mromang08@gmail.com}{mromang08@gmail.com}
+\href{https://m42.github.io}{m42.github.io}
+\href{https://www.linkedin.com/in/mario-roman}{linkedin:mario-roman}
 \section{languages}
-spanish mother tongue
-english fluency (c1)
-italian fluency
+spanish
+english
+italian
 \section{programming}
 Haskell
 C++, R
@@ -54,9 +55,7 @@ Emacs org-mode
 LaTeX
 \end{aside}
 
-%----------------------------------------------------------------------------------------
-% EDUCATION SECTION
-%----------------------------------------------------------------------------------------
+
 
 \section{education}
 
@@ -64,52 +63,65 @@ LaTeX
 
 %------------------------------------------------
 
-\entry{2013--2017}{{\normalfont Bachelor degree in} Mathematics}{Universidad de Granada, Spain}
-{\emph{Interest in abstract algebra.} Average calification: 9.5/10
+\entry{2013--2017}{{\normalfont Bachelor degree in} Mathematics}
+{\href{http://www.ugr.es/en/}{University of Granada}, Spain}
+{\emph{Emphasis in abstract algebra.} GPA: 9.51/10
 }
 
-\entry
-{2007--2008}{{\normalfont Bachelor degree in} Computer Science}{Universidad de Granada, Spain}
-{\emph{Interest in computation.} Average calification: 9.5/10 \\
-Exchange student at \emph{Università degli studi di Milano (2015-2016)}
+\entry{2013--2017}{{\normalfont Bachelor degree in} Computer Science}
+{\href{http://www.ugr.es/en/}{University of Granada}, Spain}
+{\emph{Emphasis in computation.} GPA: 9.47/10 \\
+  \href{http://ec.europa.eu/programmes/erasmus-plus/node_en}{Exchange student} at the
+  \href{http://www.unimi.it/ENG/}{University of Milan} (2015--2016)
 } 
 
-\entry{2014--2016}{Programming conferences \& courses}{}
-{ \emph{Lambda World}, Cádiz, 2016 \\
-  \emph{ESSLLI. Logic, Languages and Computation}, Barcelona, 2015 \\
-  \emph{Data Science and Big Data}, UNIA, 2014
-}
+\entry{2016}{{\normalfont Attended} \href{http://www.lambda.world/}{Lambda World} conference}{}{On Functional Programming}
+
+\entry{2015}{{\normalfont Attended} \href{http://parles.upf.edu/llocs/esslli/welcome-esslli-2015}{ESSLLI} conference}{\href{https://www.upf.edu/}{Pompeu Fabra University}, Spain}{On Logic, Languages and Computation}
+
+\entry{2014}{Course {\normalfont on} \href{http://sci2s.ugr.es/otherCourses/CienciaDatosBigData}{Data Science and Big Data}}{\href{http://www.unia.es/}{International University of Andalucía}}{On R, Knime, Scala and Spark}
+
+% \entry{2014--2016}{Programming conferences \& courses}{}
+% { \emph{\href{http://www.lambda.world/}{Lambda World}}, Cádiz, 2016 \\
+%   \emph{\href{http://parles.upf.edu/llocs/esslli/welcome-esslli-2015}{ESSLLI. Logic, Languages and Computation}}, Barcelona, 2015 \\
+%   \emph{\href{http://sci2s.ugr.es/otherCourses/CienciaDatosBigData}{Data Science and Big Data}}, \href{http://www.unia.es/}{International University of Andalucía}, 2014
+% }
 
 \end{entrylist}
 
 
-\section{projects}
+%\section{projects}
 \subsection{programming projects}
 
 \begin{entrylist}
-\entry{2015--Now}{Mikrokosmos}{github.com/M42/mikrokosmos}
-{\emph{Hackage: hackage.haskell.org/package/mikrokosmos} \\
-  An untyped lambda calculus interpreter written in Haskell
-  supporting lazy and eager evaluation.
+\entry{2015--Now}{Mikrokosmos}
+{\href{https://github.com/M42/mikrokosmos}{github.com/M42/mikrokosmos}}
+{\emph{Hackage: \href{https://hackage.haskell.org/package/mikrokosmos}{hackage.haskell.org/package/mikrokosmos}} \\
+  An untyped lambda calculus interpreter written in Haskell supporting multiple evaluation strategies.
 }
-\entry{2014--2015}{GranaSAT Client}{github.com/M42/granasatClient}
-{\emph{Git repository: https://github.com/M42/granasatClient} \\
-  Software for a satellite student experiment for the European Space Agency BEXUS
-  campaign.
+\entry{2014--2015}{GranaSAT Client}
+{\href{https://github.com/M42/granasatClient}{github.com/M42/granasatClient}}
+{\emph{Git repository: \href{https://github.com/M42/granasatClient}{github.com/M42/granasatClient}} \\
+  Software for a satellite student experiment for the
+  European Space Agency \href{http://rexusbexus.net/}{BEXUS campaign}.
 }
 \end{entrylist}
 
 \subsection{mathematical projects}
 
 \begin{entrylist}
-\entry{2016--Now}{Koszul pairs and its applications}{Universidad de Granada, Spain}
-{\emph{Git repository: https://github.com/M42/math} \\
+\entry{2016--Now}{Koszul pairs and its applications}{University of Granada, Spain}
+{\emph{Git repository: \href{https://github.com/M42/math}{github.com/M42/math}} \\
   Research grant. Working with the Algebra Department.}
-\entry{2015--Now}{LibreIM}{}
-{\emph{Web page: http://tux.ugr.es/dgiim/} \\
-  Founder of a community of Math\&CS students. I write for a cooperative blog,
-  and mantain a Q\&A site. We organize seminars where I have lectured about
-  Haskell, Category Theory and Git.
+
+\entry{2015--Now}{LibreIM}{\href{http://tux.ugr.es/dgiim/}{tux.ugr.es/dgiim/}}
+{ Founder and coordinator of a \href{http://tux.ugr.es/dgiim/}{community} of Math\&CS students.
+  I am the main contributor to our \href{http://tux.ugr.es/dgiim/blog/}{blog},
+  and maintain our \href{http://tux.ugr.es/dgiim/overflow/}{Q\&A site}.
+  We organize \href{http://tux.ugr.es/dgiim/awesome/seminars/}{seminars} where I have lectured about
+  \href{https://github.com/libreim/introHaskell/blob/master/introHaskell.pdf}{Haskell},
+  \href{https://github.com/libreim/introCategorias/blob/master/categorias.pdf}{Category theory}
+  and \href{https://github.com/libreim/curryHoward/blob/master/CurryHoward.pdf}{Type theory}.
 }
 \end{entrylist}
 
@@ -118,16 +130,16 @@ Exchange student at \emph{Università degli studi di Milano (2015-2016)}
 
 \begin{entrylist}
 
-\entry{2012--2013}{International Mathematical Olympiad (IMO)}{Mar del Plata, Argentina}
-{National \textbf{Gold Medal}. \\
-International \textbf{Honourable mention}.}
+\entry{2012--2013}{International Mathematical Olympiad (\href{http://www.imo-official.org/}{IMO})}
+{Argentina}
+{National \textbf{Silver \& Gold Medals}. \\
+\href{https://www.imo-official.org/team_r.aspx?code=ESP&year=2012}{International} \textbf{Honourable mention}.}
 
 \end{entrylist}
 
 \section{interests}
-
 I love \textbf{abstract algebra}, \textbf{category theory} and its applications to \textbf{functional
-programming}. My favorite programming language is \textbf{Haskell}, but I am very interested in
+programming}. My favorite programming language is \textbf{Haskell} but I am also very interested in
 the foundations of programming languages, lambda calculus and dependently typed languages such
 as Agda and Coq.
 
