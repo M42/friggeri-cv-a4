@@ -31,7 +31,8 @@
 \definecolor{orange}{HTML}{FDA333}
 \definecolor{purple}{HTML}{D3A4F9}
 \definecolor{red}{HTML}{FB4485}
-\definecolor{blue}{HTML}{6CE0F1}
+%\definecolor{blue}{HTML}{6CE0F1}
+\definecolor{blue}{HTML}{5D8AA8}
 
 \ifdefined\@cv@print
   \colorlet{green}{gray}
@@ -58,7 +59,7 @@
   \colorlet{rdfpurple}{gray}
   \colorlet{brown}{gray}
   \colorlet{red}{gray}
-  \colorlet{blue}{gray}
+  \colorlet{blue}{blue}
 \fi
 
 %%%%%%%%%
@@ -127,7 +128,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   {%
     \color{%
       \ifcase\value{colorCounter}%
-        blue\or%
+        %blue\or%
         red\or%
         orange\or%
         green\or%
@@ -195,11 +196,11 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.6}(1.5, 4.33)
+  \begin{textblock}{3.8}(1.5, 4.33)
   \begin{flushright}
-  \obeycr
+  %\obeycr
 }{%
-  \restorecr
+  %\restorecr
   \end{flushright}
   \end{textblock}
   \let\section\oldsection
@@ -348,7 +349,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 \RequirePackage[left=6.1cm,top=2cm,right=2.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
 \hypersetup{
-    colorlinks=false,       
+    colorlinks=true,       
     linkcolor=red,          
     citecolor=red,        
     filecolor=red,      
