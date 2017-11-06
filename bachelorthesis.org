@@ -1,0 +1,48 @@
+#+TITLE: Bachelor's thesis
+#+SUBTITLE: Category theory and lambda calculus
+#+AUTHOR: Mario Román
+#+OPTIONS: toc:nil
+
+# Untyped lambda calculus
+# Simply-typed lambda calculus
+# Intuitionistic Propositional Logic
+# Curry-Howard Correspondence
+
+# Categories
+# Adjoints and Kan extensions
+# Monoidal and enriched categories
+# Lawvere theories
+# Topoi (ETCS)
+# Lambek's correspondence
+
+# Locally closed cartesian categories
+# Martin-Löf type theories
+# Programming in Martin-Löf type theory
+
+
+The first part of this thesis describes the untyped and the
+simply-typed *lambda calculus*. The *Brower-Heyting-Kolmogorov*
+*interpretation* of types leads to a full isomorphism between proofs in
+*Intuitionistic Propositional Logic* and simply-typed lambda calculus
+terms. We implement a complete lambda calculus interpreter in the
+Haskell programming language that can show the derivation tree in
+Gentzen's natural deduction style of any given term.
+
+\quad
+
+The second part describes categories, natural transformations,
+adjoints and Kan extensions. *Lawvere's algebraic theories* are
+discussed as a first example of categorical logic and *topoi* are
+studied as an intuitionistic generalization of the Lawvere's
+*Elementary Theory of the Category of Sets*.
+This categorical framework is then used to extend the previous
+isomorphism between simply-typed lambda calculus and propositional
+logic to *cartesian closed categories*. Robert Seely's 1984 paper
+refines this idea to a correspondence between locally closed cartesian
+categories and *Martin-Löf type theories*.
+
+\quad
+
+The thesis finishes with a discussion of the *Agda* programming language
+and how dependent type theories with the *Voevodsky's Univalence* axiom
+can be used to develop an intuitionistic foundation of mathematics.
