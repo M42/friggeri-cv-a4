@@ -1,0 +1,595 @@
+#+OPTIONS: toc:nil
+#+latex_header: \setlength{\parskip}{1em} \setlength{\parindent}{0pt}
+#+latex_header: \usepackage{titling}
+#+latex_header: \usepackage{amsmath,amsthm}
+#+latex_header: \setlength{\droptitle}{-4em}
+
+* EUTypes
+** Statement of interest
+/To the organising comitee of EUTypes Summer School,/
+
+$\quad$
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. I am working on homological algebra and category theory. My
+research is supported by an introduction to research grant of the
+Spanish government. I am writing my bachelor thesis on lambda calculus
+and category theory applied to functional programming.
+
+My primary interest lies in the field of type systems as foundations
+of mathematics and logic. I started learning Haskell three years
+ago, at the same time I began learning category theory. Since
+then, I have implemented lambda calculus-based interpreters on
+Haskell, written  proofs on Coq and started studying about type
+theory. I am very interested in the introduction to Agda, and the
+courses about the logic of type systems and Homotopy Type Theory.
+
+This summer school would be a great opportunity for me to gain some
+advanced training on type theory, proof assistants and their
+underlying mathematics; to help me decide what specific topics of
+research I would like to work on during my career, and to network with students
+and professors working on this field.
+
+$\quad$
+
+/Sincerely, Mario Román./
+** Travel cost
+/To the organising comitee of EUTypes Summer School,/
+
+I would like to request funding for the travel from Granada, Spain, to
+Ohrid, Macedonia. My travel would be a [[https://goo.gl/flights/LNbP][flight from Madrid (MAD) to Skopje (SKP)]], 
+with an estimate cost of 350€.
+
+/Respectfully yours, Mario Román./
+
+* Amsterdam
+** Motivation
+/To whom it may concern,/
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. Mathematics has been my passion for many years and I discovered
+that the study of programming languages and computation was a fascinating
+subject that shared with mathematics a formal, analytical approach that
+I enjoyed studying.
+
+During these years and apart from my courses, I have been
+autodidactically studying Category Theory and Type Theory. It started
+as a way to better understand the foundations of functional
+programming and how it related to mathematics and soon I discovered
+how Categorical Logic provided an elegant framework for expressing
+these deep connections. Since then, I have been attending summer
+courses on logic, languages, homotopy type theory and proof assistants
+while reading about categories. Foundations of mathematics, for
+example, is a field that captivates me.
+
+My bachelor's thesis is thus devoted to the study of categorical logic
+and lambda calculus and the interplay between them both, which has
+intuitionistic logic at its core. Modern logic has been for me a point
+where mathematics and computer science meet, and where I can fully
+apply what I have learnt about categorical logic and formal languages.
+
+The Master's programme in Logic at the University of Amsterdam
+provides the perfect curriculum for this backgroud. An
+interdisciplinary programme which has logic, formal languages and
+computation at its core and Mathematics, Computer Science and Language
+between its tracks allows me to pursue Logic specifically while
+continuing studying its connections and applications to computation
+and mathematics. No other master's programme offers such a complete
+academical formation on the logical interaction between these
+topics. The focus on research it has is also completely aligned with
+the career path I would like to take.
+
+I would also like to be nominated for the Amsterdam Science Talent
+Scholarship.  For me, this scholarship would represent the possibility
+of pursuing an academic career on the field I have been passionate
+about for many years, offering me an exceptional opportunity to
+specialize in Logic at a higher level and pursue research positions on
+the field. Amsterdam provides access to a large number of research
+institutions and offers a huge variety of PhD training programmes.
+
+
+/Sincerely,/\\
+/Mario Román./
+
+# IDEAS:
+# - Research institutes
+# - Foundations of maths and philosophy
+
+# Bachelor thesis
+
+# Logic as join of CS and Math
+
+# The quality of the letter of motivation (maximum 500 words), in which
+# the candidate explains the reasons for choosing the specific Master’s
+# programme in a broader context and the relevance of obtaining this
+# scholarship for the candidate’s future academic career;
+
+# Furthermore, you should include a paragraph in your motivation
+# letter in which you explain why you wish to be nominated for the
+# Amsterdam Science Talent Scholarship, and what it would mean for
+# your future academic career.
+
+* Utrecth
+** Motivation
+/To whom it may concern,/
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. Mathematics has been my passion for many years and I discovered
+that the study of programming languages and computation was a fascinating
+subject that shared with mathematics a formal, analytical approach that
+I enjoyed studying.
+
+During these years and apart from my courses, I have been
+autodidactically studying Category Theory and Type Theory. It started
+as a way to better understand the foundations of functional
+programming and how it related to mathematics and soon I discovered
+how Categorical Logic provided an elegant framework for expressing
+these deep connections. Since then, I have been attending summer
+courses on logic, languages, homotopy type theory and proof assistants
+while reading about categories. Foundations of mathematics, for
+example, is a field that captivates me.
+
+My bachelor's thesis is thus devoted to the study of categorical logic
+and lambda calculus and the interplay between them both, which has
+intuitionistic logic at its core. Modern logic has been for me a point
+where mathematics and computer science meet, and where I can fully
+apply what I have learnt about categorical logic and formal languages.
+
+The Mathematical Sciences master's programme at the University of
+Utrecht provides the perfect curriculum for this backgroud. While I
+also find the tracks in Algebraic geometry and Number Theory and
+Differential geometry and Topology directly related to my interests;
+the track on Logic covers exactly what I would like to study and
+specialize in. I would be specially interested in attending courses on
+Intuitionism, Topos theory and Type theory; and I hope that this
+programme would provide me with the required knowledge for pursuing
+a future research career.
+
+/Sincerely,/\\
+/Mario Román./
+** Bright Minds Fellowship
+*** Bright Minds Fellowship: Question 5
+*Question.*  
+/How has your diversity (cultural heritage, race, gender,/
+/socio-economic background, family, work, and/or school experiences/
+/etc.) contributed to who you are today and your pursuit of a Master’s/
+/degree? Please upload your answer as a pdf document./
+
+Andalucía is one of the poorest regions of Spain, with a 47,9% young
+unemployment rate. Culturally, a different and traditionally
+marginalized dialect of Spanish is spoken. The lack of local
+opportunities of job and the high rates of unemployment have made it
+necessary for me and many others to try to look for better
+opportunities abroad. I hope that a high quality education abroad will
+help me to serve my region in the future.
+
+As my father is a teacher of philosophy and history of music
+interested in the Andalusian culture, I have studied music and I have
+grown very influenced by this cultural heritage. Continuing my
+mathematical studies at Utrecht in a diverse community of
+international students would provide me a wider cultural perspective.
+
+*** Bright Minds Fellowship: Question 6
+*Question.* 
+/Given your personal background, describe an experience that/
+/illustrates what you would bring to the diversity of your Master’s/
+/programme? Please upload your answer as a pdf document./
+
+During my degree, I have founded a community of students devoted to
+making mathematics and computer science accesible to everybody using
+free software and promoting free access to knowledge (see
+https://libreim.github.io/, in Spanish). I weekly organize students
+seminars on mathematics and computer science open to the general
+public. Working with other local communities of women in technology,
+we hope to provide a platform for underrepresented groups in science
+and technology.
+
+Apart from this, I have been voluteering at my university teaching
+LaTeX and other software tools to mathematics students and preparing
+high-school students for mathematical olympiads. I hope that my
+volunteering teaching high-school students has helped increasing the
+interest in mathematics and has attracted a diverse group of people
+into the mathematics degree at my university.
+
+*** Bright Minds Fellowship: Question 7
+*Question.* 
+/With regard to your interpersonal skills, the selection committee will/
+/take your application file for the Master’s programme into/
+/consideration. If there is any information in relation to your/
+/interpersonal skills that you feel is relevant for this scholarship/
+/application that you did not include with your Master’s application,/
+/you can provide this here. You can upload a pdf with text or a scan of/
+/the relevant document. Please do not include documents that you/
+/already submitted for your master’s application./
+
+Twelve years of music education have taught me to overcome shyness and
+developing the habit of acting and performing in front of a live
+audience. This skill has been useful and I have had the opportunity of
+practicing it while helping as a teaching assistant and lecturing in
+seminars.
+
+The organization of a community of students has taught me how to work
+in a team environment, lead, reach agreements, take decisions when
+needed, and mediate between my colleagues.
+
+I have represented the group in universitary politics; for example,
+promoting free software and getting the faculty of computer science
+council to push the university for a wider adoption of free
+software. I have learn how to negotiate and how to speak to defend our
+opinions in front of an audience.
+
+* Barcelona
+** Statement of interest
+# A short statement about the reasons for wanting to enter this
+# Master, about whether they want to specialise somehow, and any other
+# information they may think may be relevant.
+
+/To whom it may concern,/
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. Mathematics has been my passion for many years and I
+discovered that the study of programming languages and logic was a
+fascinating subject that shared with mathematics a formal, analytical
+approach that I enjoyed studying.
+
+My bachelor's thesis is thus devoted to the study of categorical logic
+and lambda calculus and the interplay between them both, which has
+intuitionistic logic at its core. Modern logic has been for me a point
+where mathematics and computer science meet, and where I can fully
+apply what I have learnt about categorical logic and formal languages.
+
+The Master's programme in Pure and Applied Logic at the University of
+Barcelona provides the perfect curriculum for this backgroud and an
+excellent opportunity for me to specialize in Logic and to get the
+necessary academic formation to pursue a research career a field
+related to mathematical logic. I would be specially interested in
+the courses on automated theorem proving and algebraic logic.
+
+/Sincerely,/\\
+/Mario Román./
+* La Caixa
+** Abstract for the statement of purpose
+** Statement of purpose
+# Research projects and master programmes that you are considering
+# Why you would like to study what you are proposing
+# What area of study would you like to specialise in
+
+*** The project
+I am interested in computational foundations of mathematics.
+
+In a normal day, mathematicians do not need to worry about the
+fundamental postulates and rules of inference. Even if the reasonings
+are dressed as formal proofs respecting those principles, it is
+socially accepted to sweep under the rug as many details as needed to
+achieve a higher goal: a clear and concise presentation of the main
+ideas, understandable by humans.
+
+A complete reversal of this situation happens when we try to explain
+mathematics to a computer. The most insignificant details of our
+theory can become tedious (but necessary) bureaucracy when proving
+theorems in a completely formal way. And checking mathematics in a
+computer is not simply a pastime! some mathematical problems have been
+formalized for the first time by a computer and, in safety-critical
+software systems where human lives are at stake, formal verification
+is prerequisite.
+
+Thus, we have a need to revisit the foundations of mathematics to make
+them easily intelligible for computers; that is, we need our
+foundations to have a computational interpretation. Fortunately, we
+have all the necessary tools at hand.
+
+ * The *Brouwer-Heyting-Kolmogorov* interpretation showed in the 30s
+   that a certain kind of mathematical logic (constructive or
+   intuitionistic logic) could be interpreted in a computational way.
+
+ * *Toposes* were invented by one of the greatest mathematicians of the
+   past century, Alexander Grothendieck, while studying algebraic
+   geometry; later, it was discovered that each of them could be seen
+   as a new world (model) of these constructive mathematics.
+
+ * The Swedish philosopher Per Martin-Löf proposed a *type theory*
+   (slightly different from the usual set-theoretical approach) that
+   could be thought at the same time as a programming language and as
+   a language for these constructivist mathematics. Recently,
+   connections with the fundamental structure of spaces (topology)
+   have been discovered.
+
+What is the goal then? We need to explore these new worlds of
+mathematics, study how are they related to type theory and start
+writing mathematics using programming languages. How could this be
+achieved exactly is a subject of active research. In a not-so-distant
+future, we could see collaborative libraries of formalized
+mathematics, an open repository of mathematics where each one of us
+could submit a proof and have it checked by the computer. These same
+mathematical proofs could be used while programming, to ensure the
+correctness of our software. Although this vision is still far, it
+would be revolutionary both for mathematics and programming.
+
+*** About me
+Five years ago, I chose a double degree in mathematics and computer
+science; I really liked the logical aspect of designing programming
+languages but I had a strong feeling that they were not "mathematical
+enough", so my first resolution was to learn about theory of
+programming languages. Thus, I discovered functional programming and
+type theory and how they provided a more mathematical ground for
+languages.
+
+At the same time, I started reading about category theory in an
+algebra book and the simplicity of the proofs and the generality of
+the applications captured my interest. When I learnt that they were
+also related to programming, I decided to devote the majority of the
+sparse time that I had during my degree to study this relation.
+
+Note that neither category theory nor functional programming were
+being taught at my university; I decided that the best way to learn
+would be to teach and discuss with my colleages, so I started
+organizing weekly seminars on these topics, using free software and
+writing public notes in Creative Commons to teach. Four years later, I
+am the coordinator of the vibrant community of students at our
+university that we have created. We organize seminars, promote free
+software and help students of mathematics and computer science
+(https://libreim.github.io/).
+
+However, it would be naive to think that I can learn all that I need
+staying at a university where there are no courses on these topics. I
+have studied precisely the necessary tools to work on type theory and
+foundations of mathematics, and now I would like to finish this
+formation and adquire the relevant background (in Logic, Category
+theory, Type theory and Foundations of mathematics) to pursue a
+research career with that ideal in mind.
+
+*** Master programmes in Logic and Mathematics
+The Netherlands has a long tradition in constructive mathematics
+thanks to Brower's intuitionism and the school that his academic
+descendants established; more recently continued by topos theorists
+such as Ieke Moerdijk. Additionally, is has a great computer science
+heritage with Dijkstra and the first universities that advocated a
+scientific approach to programming.
+
+It is there where we can find master's with the possibility of a
+specialization in Categories and Logic through the national Mastermath
+programme.
+
+*** Notas
+**** Seminarios
+**** Master programmes
+**** Mathematics and computer science
+I have studied a double degree in mathematics and computer science.
+
+Interest in how programming languages can be used as proof assistants allowing
+us to write and check mathematical proofs inside them and unifying mathematical
+logic and programming.
+
+**** Lawvere and categories
+# Lawvere-Tierney topos theory
+
+**** Univalent foundations, constructivism
+# Martin-Lof type theory
+# Cubical type theory
+# Agda
+# Univalent project by Voevodsky
+
+Specially interesting is the type theory developed by the Swedish philosopher
+Per Martin-Löf as a framework for constructivist mathematics.
+
+
+The Fields medalist Vladimir Voevodsky proposed the axiom of univalence
+
+The philosophical, logical, mathematical and computational aspects of the theory
+
+**** The Netherlands
+The Netherlands have a long tradition in constructive mathematics
+thanks to Brower's intuitionism and his students Heyting and
+Troelstra; more recently continued by topos theorists such as Ieke
+Moerdijk.
+
+Additionally, the Netherlands have a great computer science heritage
+(Dijkstra or Tanenbaum).
+
+All of this makes clear that it is clearly the most reasonable choice
+for someone willing to study the philosophical, logical, mathematical
+and computational aspects of the theory.
+
+* Heidelberg laureate forum
+** Motivation
+/To whom it may concern,/
+
+As a student of two bachelor degrees in Mathematics and Computer
+Science. Mathematics and computation have been my passion for many
+years; I have devoted the sparse time during my studies to study
+functional languages, category theory and type theory and the
+coordination of student seminars on these topics.
+
+The Heidelberg Laureate Forum constitutes for me a unique opportunity
+to live for a few days in a very intellectually stimulating atmosphere
+with both first-level scientists and future researchers passionate
+about mathematics and computer science, each one of them coming from
+a different background and providing a diverse spectrum of perspectives
+that would be very useful for a student pursuing a research career.
+
+An experience of this kind would probably help me consider specific
+topics of research I would like to work on during my career and
+interact with already prestigious researchers, some of whom inspired
+and motivated me in the first place to delve into the study of
+mathematics and computation.
+
+/Sincerely,/\\
+/Mario Román./
+
+* Birmingham
+#+latex_header_extra: \usepackage{libertine}
+#+latex_header_extra: \usepackage{libertinust1math}
+#+latex_header_extra: \usepackage{inconsolata}
+#+latex_header_extra: \usepackage[T1]{fontenc}
+
+** Personal statement
+\vspace{-1em}
+/To whom it may concern/,
+
+As a student of two bachelor degrees in Mathematics and Computer
+Science, I have a great interest in how both relate at a foundational
+level; and in particular in the relations between constructive
+mathematics, functional programming and Category theory. Thanks to a
+collaboration grant at the Algebra deparment at the University of
+Granada, I have had the possibility of becoming involved with research
+at an undergraduate level and helping as a teaching assistant on a
+course on Logic and Programming.  This experience has helped me to
+take the decision to pursue a research career.
+
+During these years and apart from my courses, I have been
+autodidactically studying Type theory, Category theory and theory of
+programming languages and coordinating student-organized seminars on
+these topics at my university. In particular, the courses on Homotopy
+Type theory and proof assistants at the EUTypes summer school and the
+School and Workshop on Univalent Mathematics held recently at the
+University of Birmingham sparked my interest on particular research
+topics related to Univalent Type theory.
+
+The Theory of Computation research group at the University of
+Birmingham is devoted precisely to the research of topics that delve
+in the foundations of Computer Science and Mathematics, exploring how
+the notion of computation relates to mathematical concepts in logic,
+algebra and topology. Having the possibility of pursuing a research
+career in the topics I have been passionate about for many years under
+the supervision of leading researchers in the field and in a
+high-quality institution would be an honor for me.
+
+/Sincerely,/\\
+/Mario Román./
+
+* Oxford
+** Statement of purpose
+\vspace{-3em}
+/To whom it may concern,/
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. Mathematics has been my passion for many years and I
+discovered that the study of programming languages and computation was
+a fascinating subject sharing with mathematics a formal, analytical
+approach that I enjoyed studying.
+
+During these years and apart from my courses, I have been
+autodidactically studying Category Theory and Type Theory. It started
+as a way to better understand the foundations of functional
+programming and how it related to mathematics and soon I discovered
+how Categorical Logic provided an elegant framework for expressing
+these deep connections. Since then, I have been attending summer
+courses on logic, languages, homotopy type theory and proof assistants
+while reading about categories. Foundations of mathematics, for
+example, is a field that captivates me.
+
+My bachelor's thesis is thus devoted to the study of categorical logic
+and lambda calculus and the interplay between them both, which has
+intuitionistic logic at its core. Modern logic has been for me a point
+where mathematics and computer science meet, and where I can fully
+apply what I have learnt about categorical logic and formal languages.
+
+The master's programme in Mathematics and Foundations of Computer
+Science at the University of Oxford provides the perfect curriculum
+for this backgroud. I would be specially interested in attending
+courses on logic, topology and quantum computing; and I hope that this
+programme would provide me with the required knowledge for pursuing a
+future research career.
+
+/Sincerely, Mario Román./
+
+** Interview
+*** Why Oxford?
+A ver exciting evironment to learn. A very intellectually stimulant
+place.
+
+*** Why this masters?
+This masters allows me to study mathematical logic and the related
+areas of mathematics (such as algebra, number theory, algebraic
+topology, category theory) while keeping an eye in how this applies
+to computer science.
+
+*** Why a master instead of a PhD?
+A masters allows me to gain a wider view, to have a more complete
+idea of all the related topics before choosing what exact topic
+I would like to research.
+
+*** My interests
+
+ * Homotopy type theory.
+ * Categorical logic.
+ * Semantics of lambda calculus.
+ 
+*** Question
+I would like to ask how common is for students of this course
+to continue into a PhD at Oxford.
+
+* Nijmegen
+** Motivation letter
+\vspace{-3em}
+/To whom it may concern,/
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. Mathematics has been my passion for many years and I discovered
+that the study of programming languages and computation was a fascinating
+subject that shared with mathematics a formal, analytical approach that
+I enjoyed studying.
+
+During these years and apart from my courses, I have been
+autodidactically studying Category Theory and Type Theory. It started
+as a way to better understand the foundations of functional
+programming and how it related to mathematics and soon I discovered
+how Categorical Logic provided an elegant framework for expressing
+these deep connections. Since then, I have been attending summer
+courses on logic, languages, homotopy type theory and proof assistants
+while reading about categories. Foundations of mathematics, for
+example, is a field that captivates me.
+
+My bachelor's thesis is thus devoted to the study of categorical logic
+and lambda calculus and the interplay between them both, which has
+intuitionistic logic at its core. Modern logic has been for me a point
+where mathematics and computer science meet, and where I can fully
+apply what I have learnt about categorical logic and formal languages.
+
+The Master's specialisation in Mathematical Foundations of Computer
+Science at Radboud University provides the perfect curriculum for this
+backgroud.  The programme outline closely matches my interests both
+from the mathematical and computational perspective. I would be
+specially interested in attending courses on Type Theory, Category
+Theory and Topos Theory and Complexity Theory; and I hope that this
+programme would provide me with the required knowledge for pursuing a
+future research career.
+
+/Sincerely, Mario Román./
+
+* Hausdorff
+** Letter of intent
+/To whom it may concern,/
+
+I am a student of two bachelor degrees in Mathematics and Computer
+Science. During these years and apart from my courses, I have been
+autodidactically studying Type Theory and I have attended the EUTypes
+2017 Summer School and the School and Workshop on Univalent
+Mathematics at the University of Birmingham where I have gained some
+experience with computer-based proof assistants.
+
+My main interests are Type Theory, constructive foundations of
+mathematics and category theory; and my intention is to pursue a
+research career on these topics. I am currently applying for a PhD on
+Martin-Löf type theory and Univalent foundations. My PhD research
+proposal revolves around how the introduction of certain classical
+principles for (-1)-truncated types affects other aspects of Univalent
+Type Theory such as parametricity, structure of the universe or
+certain notions of continuity, and in which cases these principles can
+be recovered from its consequences. In case I got accepted, the
+expected starting time of my PhD would be September 2018.
+
+I am currently writing a bachelor's thesis on categorical semantics of
+lambda calculus and Univalent Type Theory, following "Higher Order
+Categorical Logic" by Lambek and Scott, "Sheaves for Geometry and
+Logic" by MacLane and Moerdijk and the Homotopy Type Theory book.
+
+The Summer School on Types, Sets and Constructions would provide me an
+excellent opportunity to continue my formation on constructive
+mathematics and type theory at the highest level, learning from
+leading researchers on the field. It would help me decide what
+specific topics of research I would like to work on during my career
+and learn from the experience of other PhD students.
+
+/Sincerely,/\\ 
+/Mario Román./

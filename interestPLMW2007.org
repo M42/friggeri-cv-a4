@@ -1,0 +1,8 @@
+#+TITLE: Statement of Interest
+#+SUBTITLE: PLMW 2017
+#+AUTHOR: Mario Román
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+
+/To the organising comitee of the PLMW2017/

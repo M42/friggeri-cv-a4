@@ -1,0 +1,60 @@
+% Created 2017-11-03 Fri 17:45
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage[colorlinks=true]{hyperref}
+\usepackage{tikz}
+\usepackage{minted}
+\author{Mario Román}
+\date{\today}
+\title{Bachelor's thesis\\\medskip
+\large Category theory and lambda calculus}
+\hypersetup{
+ pdfauthor={Mario Román},
+ pdftitle={Bachelor's thesis},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.0.50 (Org mode 9.0.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+The first part of this thesis describes the untyped and the
+simply-typed \textbf{lambda calculus}. The \textbf{Brower-Heyting-Kolmogorov}
+\textbf{interpretation} of types leads to a full isomorphism between proofs in
+\textbf{Intuitionistic Propositional Logic} and simply-typed lambda calculus
+terms. We implement a complete lambda calculus interpreter in the
+Haskell programming language that can show the derivation tree in
+Gentzen's natural deduction style of any given term.
+
+\quad
+
+The second part describes categories, natural transformations,
+adjoints and Kan extensions. \textbf{Lawvere's algebraic theories} are
+discussed as a first example of categorical logic and \textbf{topoi} are
+studied as an intuitionistic generalization of the Lawvere's
+\textbf{Elementary Theory of the Category of Sets}.
+This categorical framework is then used to extend the previous
+isomorphism between simply-typed lambda calculus and propositional
+logic to \textbf{cartesian closed categories}. Robert Seely's 1984 paper
+refines this idea to a correspondence between locally closed cartesian
+categories and \textbf{Martin-Löf type theories}.
+
+\quad
+
+The thesis finishes with a discussion of the \textbf{Agda} programming language
+and how dependent type theories with the \textbf{Voevodsky's Univalence} axiom
+can be used to develop an intuitionistic foundation of mathematics.
+\end{document}
